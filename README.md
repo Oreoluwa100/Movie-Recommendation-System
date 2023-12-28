@@ -12,7 +12,9 @@ In the entertainment world today, the movie recommendation system makes use of c
 
 **K-Nearest Neighbors (KNN) Algorithm**
 
-This machine learning algorithm identifies and recommend movies based on their proximity to the user's preferences within the feature space. The K-nearest neighbors algorithm is employed to identify similar items (movies) by analyzing their features (ratings). The key mechanism involves utilizing the cosine of the angles between the movies to gauge their similarity. A smaller angle signifies that, based on their features, the movies are aligned in the same or nearly the same direction, indicating a higher degree of similarity between the movies.
+How this works is the K-nearest neighbors algorithm is employed to identify similar items (movies) by analyzing their features (ratings). The key mechanism involves utilizing the cosine of the angles between the movies to gauge their similarity. A smaller angle signifies that, based on their features, the movies are aligned in the same or nearly the same direction, indicating a higher degree of similarity between the movies.
+
+
 
 
 
