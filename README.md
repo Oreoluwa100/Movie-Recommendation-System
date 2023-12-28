@@ -4,6 +4,6 @@ This project is a basic movie recommendation system using Item-based Collaborati
 
 **Introduction**
 
-In the entertainment world today, the movie recommendation system makes use of collaborative filtering to creates a similarity between the user and items and exploits the similarity between user/item to make recommendations. This techniques allows for movie suggestions that aligns with the user's taste and tailored for each users therefore improving their movie-watching experience.
+In the entertainment world today, the movie recommendation system makes use of collaborative filtering to creates a similarity between the user and items and exploits these similarities to make recommendations. This techniques allows for movie suggestions that aligns with the user's taste and tailored for each users therefore improving their movie-watching experience.
 
 
