@@ -8,7 +8,7 @@ In the entertainment world today, the movie recommendation system makes use of c
 
 **Item Based Collaborative Filtering**
 
- This explores the relationships between items(movies) and recommends movies based on similarity between the movies using the user's ratings for these movies.
+ This explores the relationships between items(movies) and recommends movies based on similarity between the movies by using the user's ratings for these movies as the feature
 
 **K-Nearest Neighbors (KNN) Algorithm**
 
